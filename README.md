@@ -1,7 +1,7 @@
-# Yeasin Arafat Prantik
+# 👋 Hello! I'm Yeasin Arafat Prantik
 ## Full-Stack Developer | Next.js | React.js | JavaScript | Tailwind | Python | Django | MongoDB
 
-👋 Hello! I'm Yeasin Arafat Prantik, a passionate and versatile Full-Stack Developer with expertise in various technologies and frameworks. My focus lies in building robust web applications using Next.js, React.js, JavaScript, Tailwind CSS, Python, Django, and MongoDB.
+I'm Yeasin Arafat Prantik, a passionate and versatile Full-Stack Developer with expertise in various technologies and frameworks. My focus lies in building robust web applications using Next.js, React.js, JavaScript, Tailwind CSS, Python, Django, and MongoDB.
 
 ### Tech Stack:
 
