@@ -33,13 +33,13 @@
 ### Projects and Contributions:
 
 - 🌐 [Portfolio Website](https://example.com): Check out my personal website to see my portfolio and past projects.
-- 🔭 [Open-Source Contributions](https://github.com/your-username): I actively contribute to open-source projects, sharing my knowledge and collaborating with the developer community.
-- 📝 [Tech Blog](https://medium.com/@your-username): I enjoy sharing my insights and experiences through technical blog posts, covering various aspects of web development.
+- 🔭 [Open-Source Contributions](https://github.com/yeasinarafatprantik2002): I actively contribute to open-source projects, sharing my knowledge and collaborating with the developer community.
+- 📝 [Tech Blog](https://medium.com/@yeasinarafatprantik2002): I enjoy sharing my insights and experiences through technical blog posts, covering various aspects of web development.
 
 ### Let's Connect:
 
 - 🌍 [Website](https://example.com)
-- 📧 [email@example.com](mailto:email@example.com)
+- 📧 [email@example.com](mailto:yeasinarafatprantik@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-username)
 - 🐦 [Twitter](https://twitter.com/your-username)
 - 📷 [Instagram](https://instagram.com/your-username)
