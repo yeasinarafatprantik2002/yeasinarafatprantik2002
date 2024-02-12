@@ -38,10 +38,10 @@ I'm Yeasin Arafat Prantik, a passionate and versatile Full-Stack Developer with 
 
 ### Let's Connect:
 
-- 🌍 [Website](https://yeasinarafatprantik-porfolio.vercel.app/)
-- 📧 [email@example.com](mailto:yeasinarafatprantik@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)
-- 🐦 [Twitter](https://twitter.com/your-username)
-- 📷 [Instagram](https://instagram.com/your-username)
+- 🌍 [Porfolio](https://yeasinarafatprantik-porfolio.vercel.app/)
+- 📧 [yeasinarafatprantik@gmail.com](mailto:yeasinarafatprantik@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yeasin-arafat-prantik-38b952283/)
+- 🐦 [Twitter](https://twitter.com/prantik_ya)
+- 📷 [Instagram](https://www.instagram.com/ya_prantik)
 
 If you're looking to collaborate on exciting web projects or discuss any development opportunities, feel free to reach out. Let's build exceptional web experiences together!
