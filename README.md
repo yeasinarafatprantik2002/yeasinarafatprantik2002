@@ -2,6 +2,10 @@
 
 ### Backend-Focused Full-Stack Developer | CSE Student
 
+🌐 Portfolio: [portfolio-kappa-fawn-qvi3rhw841.vercel.app](https://portfolio-kappa-fawn-qvi3rhw841.vercel.app/)  
+📧 Email: **yeasinarafatprantik@gmail.com**  
+🐙 GitHub: [yeasinarafatprantik2002](https://github.com/yeasinarafatprantik2002)
+
 I am a Computer Science and Engineering student with a strong interest in backend development, full-stack web applications, desktop business software, and database-driven systems.
 
 I enjoy building real-world applications such as REST APIs, authentication systems, e-commerce platforms, inventory management systems, and admin dashboards.
@@ -61,6 +65,7 @@ I enjoy building real-world applications such as REST APIs, authentication syste
 ## 📌 Featured Projects
 
 ### 🧾 StockFlow — Inventory & Sales Management System
+
 A Windows Forms inventory and sales management application built with C#, .NET 8, Entity Framework Core, and SQL Server.
 
 **Features:**
@@ -80,6 +85,7 @@ A Windows Forms inventory and sales management application built with C#, .NET 8
 ---
 
 ### 🎬 VideoTube Backend
+
 A YouTube-like backend API built with Node.js, Express.js, MongoDB, Mongoose, JWT authentication, Cloudinary, and Multer.
 
 **Features:**
@@ -97,7 +103,15 @@ A YouTube-like backend API built with Node.js, Express.js, MongoDB, Mongoose, JW
 ---
 
 ### ✅ Todo Backend
+
 A backend API for todo management with authentication and database integration.
+
+**Features:**
+- REST API structure
+- User authentication
+- MongoDB database integration
+- JWT-based auth
+- Secure password hashing
 
 **Tech:** `Node.js` `Express.js` `MongoDB` `JWT` `bcrypt` `REST API`
 
@@ -106,7 +120,15 @@ A backend API for todo management with authentication and database integration.
 ---
 
 ### 📚 NestJS LMS
+
 A Learning Management System backend built with NestJS and TypeScript.
+
+**Features:**
+- Modular backend architecture
+- JWT authentication
+- MongoDB/Mongoose integration
+- DTO validation
+- Testing setup with Jest
 
 **Tech:** `NestJS` `TypeScript` `MongoDB` `Mongoose` `JWT` `bcrypt` `Jest`
 
@@ -115,9 +137,17 @@ A Learning Management System backend built with NestJS and TypeScript.
 ---
 
 ### 🛒 TMA Studio E-commerce
+
 A live e-commerce website for a clothing brand.
 
 The source code is private, but the project is live and used as a real-world business website.
+
+**Features:**
+- Product catalog
+- Responsive design
+- Clothing brand showcase
+- Business-focused website UI
+- Live production deployment
 
 **Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `E-commerce`
 
@@ -126,7 +156,15 @@ The source code is private, but the project is live and used as a real-world bus
 ---
 
 ### ⚡ Droply
+
 A modern full-stack web application using Next.js, Clerk authentication, Neon PostgreSQL, Drizzle ORM, React Hook Form, Zod, and Tailwind CSS.
+
+**Features:**
+- Full-stack Next.js structure
+- Clerk authentication
+- Neon PostgreSQL database
+- Drizzle ORM integration
+- Form validation with Zod
 
 **Tech:** `Next.js` `TypeScript` `Clerk` `Neon` `Drizzle ORM` `Zod` `Tailwind CSS`
 
@@ -162,11 +200,19 @@ A modern full-stack web application using Next.js, Clerk authentication, Neon Po
 
 ---
 
+## 🌐 Portfolio
+
+Visit my portfolio website:
+
+🔗 [https://portfolio-kappa-fawn-qvi3rhw841.vercel.app](https://portfolio-kappa-fawn-qvi3rhw841.vercel.app/)
+
+---
+
 ## 📫 Contact Me
 
 - 📧 Email: **yeasinarafatprantik@gmail.com**
 - 🐙 GitHub: [yeasinarafatprantik2002](https://github.com/yeasinarafatprantik2002)
-- 🌐 Portfolio: Coming soon
+- 🌐 Portfolio: [portfolio-kappa-fawn-qvi3rhw841.vercel.app](https://portfolio-kappa-fawn-qvi3rhw841.vercel.app/)
 
 ---
 
